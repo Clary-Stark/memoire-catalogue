@@ -1,20 +1,24 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-06-07",
+  "updatedAt": "2026-07-14",
   "extensions": [
     {
       "id": "arbre-genealogique",
       "name": "Arbre Généalogique",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Visualisez l'histoire de votre famille sous forme d'arbre animé et interactif.",
       "category": "heritage",
-      "price": "19€",
-      "minAppVersion": "3.5.5",
-      "compatibleOS": ["win32", "darwin"],
-      "downloadUrl": "https://clary-stark.github.io/memoire-catalogue/arbre-genealogique-1.0.0.memext",
-      "buyUrl": "https://clary-stark.github.io/memoire-catalogue/arbre-genealogique",
+      "price": "19 €",
+      "minAppVersion": "3.7.3",
+      "compatibleOS": [
+        "win32",
+        "darwin"
+      ],
+      "downloadUrl": "https://clary-stark.github.io/memoire-catalogue/arbre-genealogique-1.1.0.memext",
+      "buyUrl": "https://clary-stark.com/extension/",
       "previewImageUrl": null,
-      "author": "Battagliola Grégory — ClaryStark"
+      "author": "Battagliola Grégory — ClaryStark",
+      "icon": "🌳"
     }
   ]
 }
